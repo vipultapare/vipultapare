@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br><br>MERN STACK<br>Java, HTML, CSS, JavaScript
+<br><br><br>MERN STACK<br>Java, HTML, CSS, JavaScript ,  React js  ,  SQL , Selenium 
 
 
 ## 🌐 Socials:
